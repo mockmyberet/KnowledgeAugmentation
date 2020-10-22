@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "$web",
+			"uri": "azurestorage:/$web?resourceId=/subscriptions/6e658499-f75c-4618-95ea-8ad340d9974e/resourceGroups/npduscenetrg/providers/Microsoft.Storage/storageAccounts/kompstore/Blob Containers/$web"
 		}
 	],
 	"settings": {}
